@@ -1,0 +1,32 @@
+{
+  "update_id": 176755409,
+  "callback_query": {
+    "id": "1421459300073528627",
+    "from": {
+      "id": 330959283,
+      "is_bot": false,
+      "first_name": "Ashu",
+      "username": "infinite4evr",
+      "language_code": "en-us"
+    },
+    "message": {
+      "message_id": 1474,
+      "from": {
+        "id": 553882868,
+        "is_bot": true,
+        "first_name": "Insulter dad",
+        "username": "Insulterdadbot"
+      },
+      "chat": {
+        "id": 330959283,
+        "first_name": "Ashu",
+        "username": "infinite4evr",
+        "type": "private"
+      },
+      "date": 1537641869,
+      "text": "Select one of the give options"
+    },
+    "chat_instance": "-1731353208521302512",
+    "data": "channel_2"
+  }
+}
